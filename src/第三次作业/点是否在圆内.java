@@ -5,8 +5,8 @@ public class 点是否在圆内 {
 		//提示用户输入一个点
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter a point with two coordinates: ");
-		double x = input.nextInt();
-		double y = input.nextInt();
+		double x = input.nextDouble();
+		double y = input.nextDouble();
 		
 		//计算是否在圆内,并输出
 		double d;
