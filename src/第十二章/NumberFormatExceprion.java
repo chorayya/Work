@@ -1,6 +1,5 @@
 package µÚÊ®¶şÕÂ;
 import java.util.Scanner;
-import java.util.*;
 public class NumberFormatExceprion {
 
 	public static void main(String[] args) {
